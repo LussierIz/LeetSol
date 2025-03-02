@@ -1,3 +1,4 @@
+package Solution;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -8,6 +9,9 @@ import java.util.List;
 import java.util.Queue;
 import java.util.Set;
 import java.util.Stack;
+
+import StructureDonnee.ListNode;
+import StructureDonnee.TreeNode;
 
 public class Solution {
 
