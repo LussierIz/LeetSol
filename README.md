@@ -36,4 +36,5 @@ L'objectif de ce dépôt est de résoudre des problèmes d'algorithmique et de s
 
 ## 📬 Contact  
 
-- Vous pouvez me contacter à l'adresse suivante : [izak.lussier@icloud.com](mailto:izak.lussier@icloud.com).  
+- Vous pouvez me contacter à l'adresse suivante : [izak.lussier@icloud.com](mailto:izak.lussier@icloud.com).
+- Ou sur Instagram : [izak_lussier](https://www.instagram.com/izak_lussier)
